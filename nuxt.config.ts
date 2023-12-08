@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'nuxt-gtag',  */
   ],
-  image: {
+  /* image: {
     dir: 'assets/image',
     screens: {
       xs: 320,
@@ -23,6 +23,5 @@ export default defineNuxtConfig({
       xxl: 1536,
       '2xl': 1536,
     },
-    /*  formats: ['webp'], */
-  },
+  }, */
 })
