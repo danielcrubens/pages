@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>foi5</h1>
-    <img src="@/assets/images/teste.svg" alt="foi">
+    <h1>foi7</h1>
+    <img src="/public/public.svg" alt="foi">
   </div>
 </template>
