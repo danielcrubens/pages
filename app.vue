@@ -12,5 +12,5 @@
 // Opção 1
 
 // Opção 2
-import assetImage from '~/public/images/public.svg'
+import assetImage from '@/public/images/public.svg'
 </script>
