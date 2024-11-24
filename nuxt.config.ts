@@ -10,5 +10,5 @@ export default defineNuxtConfig({
  /*  image: {
     dir: 'public'
   } */
-
+    ssr: false,
 })
