@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   router: { base: '/pages/' },
   app: {
-    baseURL: '/pages/',
+   /*  baseURL: '/pages/', */
     buildAssetsDir: 'assets'
   },
 
