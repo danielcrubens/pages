@@ -5,7 +5,7 @@ export default defineNuxtConfig({
 
   app: {
     baseURL: '/pages/',
-   /*  buildAssetsDir: 'assets' */
+    buildAssetsDir: 'assets'
   },
  /*  image: {
     dir: 'public'
