@@ -16,7 +16,6 @@
     "vue-router": "latest"
   },
   "devDependencies": {
-    "push-dir": "^0.4.1",
     "gh-pages": "^4.0.0"
   }
 }

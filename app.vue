@@ -2,8 +2,9 @@
   <div>
     <h1>dev</h1>
 <!-- <img :src="publicImage" alt="foiiiiii"> --> 
-    <img src="@/public.svg" alt="dan1">
-    <img src="~/assets/images/teste2.svg" alt="dan2">
+<img src="/v2osk-1Z2niiBPg5A-unsplash.jpg" loading="lazy">
+<img src="/qingbao-meng-01_igFr7hd4-unsplash.jpg" loading="lazy">
+
    <!--  <img :src="assetImage" alt="dan3">
     <img :src="assetImage2" alt="dan32"> -->
 
